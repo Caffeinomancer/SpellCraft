@@ -1,0 +1,20 @@
+D:\Repos\SpellCraft\SpellCraft\Intermediate\Build\Win64\UE4Editor\Development\SpellCraft\Definitions.SpellCraft.h
+d:\repos\spellcraft\spellcraft\source\spellcraft\SpellCraftGameMode.h
+D:\Program Files (x86)\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Program Files (x86)\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Program Files (x86)\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Program Files (x86)\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Repos\SpellCraft\SpellCraft\Intermediate\Build\Win64\UE4Editor\Inc\SpellCraft\SpellCraftGameMode.generated.h
+d:\repos\spellcraft\spellcraft\source\spellcraft\SpellCraftHUD.h
+D:\Program Files (x86)\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\Program Files (x86)\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\Program Files (x86)\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\Program Files (x86)\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\Program Files (x86)\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+D:\Repos\SpellCraft\SpellCraft\Intermediate\Build\Win64\UE4Editor\Inc\SpellCraft\SpellCraftHUD.generated.h
+d:\repos\spellcraft\spellcraft\source\spellcraft\SpellCraftCharacter.h
+D:\Program Files (x86)\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Program Files (x86)\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Program Files (x86)\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Program Files (x86)\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Repos\SpellCraft\SpellCraft\Intermediate\Build\Win64\UE4Editor\Inc\SpellCraft\SpellCraftCharacter.generated.h

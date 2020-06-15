@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SpellCraft.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FF0AED23-6758-41E3-A208-E0F6EFE8ACCA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpellCraft.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SpellCraftEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5AABCF0C-96DB-4044-AFF7-905D55A56255}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SpellCraft">
+      <UniqueIdentifier>{9DB614A0-A14F-4D92-BA2D-EFD6EB564638}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpellCraft\SpellCraft.Build.cs">
+      <Filter>Source\SpellCraft</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SpellCraft\SpellCraft.cpp">
+      <Filter>Source\SpellCraft</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpellCraft\SpellCraft.h">
+      <Filter>Source\SpellCraft</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpellCraft\SpellCraftCharacter.cpp">
+      <Filter>Source\SpellCraft</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpellCraft\SpellCraftCharacter.h">
+      <Filter>Source\SpellCraft</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpellCraft\SpellCraftGameMode.cpp">
+      <Filter>Source\SpellCraft</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpellCraft\SpellCraftGameMode.h">
+      <Filter>Source\SpellCraft</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpellCraft\SpellCraftHUD.cpp">
+      <Filter>Source\SpellCraft</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpellCraft\SpellCraftHUD.h">
+      <Filter>Source\SpellCraft</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpellCraft\SpellCraftProjectile.cpp">
+      <Filter>Source\SpellCraft</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpellCraft\SpellCraftProjectile.h">
+      <Filter>Source\SpellCraft</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Repos\\SpellCraft\\SpellCraft\\Source\\SpellCraft\\SpellCraft.Build.cs",
+		"D:\\Repos\\SpellCraft\\SpellCraft\\Source\\SpellCraft.Target.cs",
+		"D:\\Repos\\SpellCraft\\SpellCraft\\Source\\SpellCraftEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}
