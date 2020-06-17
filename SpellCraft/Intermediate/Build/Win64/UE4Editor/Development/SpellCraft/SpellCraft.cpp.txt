@@ -1,2 +1,0 @@
-D:\Repos\SpellCraft\SpellCraft\Intermediate\Build\Win64\UE4Editor\Development\SpellCraft\Definitions.SpellCraft.h
-d:\repos\spellcraft\spellcraft\source\spellcraft\SpellCraft.h

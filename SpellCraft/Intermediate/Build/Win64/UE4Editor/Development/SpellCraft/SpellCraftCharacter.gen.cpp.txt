@@ -1,9 +1,0 @@
-D:\Repos\SpellCraft\SpellCraft\Intermediate\Build\Win64\UE4Editor\Development\SpellCraft\Definitions.SpellCraft.h
-D:\Program Files (x86)\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Program Files (x86)\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Repos\SpellCraft\SpellCraft\Source\SpellCraft/SpellCraftCharacter.h
-D:\Program Files (x86)\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-D:\Program Files (x86)\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-D:\Program Files (x86)\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-D:\Program Files (x86)\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-d:\repos\spellcraft\spellcraft\intermediate\build\win64\ue4editor\inc\spellcraft\SpellCraftCharacter.generated.h
